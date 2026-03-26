@@ -82,7 +82,7 @@ Check out the full notebook on Kaggle:
 
 ## License
 
-This project is open-source. You are free to use, modify, and share it for educational purposes.
+This project is open-source. You are free to use, modify, and share it for educational purposes. 
 
 ---
 
