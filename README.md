@@ -90,10 +90,6 @@ This project is open-source. You are free to use, modify, and share it for educa
 
 **Pushkar Singh**
 
-## How to Run Locally
 
-1. Clone this repository:  
-```bash
-git clone <your-repo-url>
 
 
